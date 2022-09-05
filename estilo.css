@@ -1,0 +1,18 @@
+.list-group-item {
+    font-style: oblique;
+  }
+
+  .list-group-item {
+    font-style: italic;
+  }
+
+.italic .list-group-item{
+    font-style: italic;
+  }
+  .fw-normal{
+    font-style: normal;
+  }
+
+ li, p {
+    color: brown;
+  }
